@@ -1,11 +1,38 @@
 {
-    "account": [
-         {"id" : 1 , "ammount" : 100},
-         {"id" : 2 , "ammount" : 200}
-    ],
- 
-    "bonus": [
-         {"id" : 1 , "points" : 100},
-         {"id" : 2 , "points" : 200}
-    ]
- }
+  "account": [
+    {
+      "ammount": 101,
+      "id": 1
+    },
+    {
+      "ammount": 777,
+      "id": 2
+    },
+    {
+      "ammount": 101,
+      "id": 4
+    },
+    {
+      "ammount": 777,
+      "id": 5
+    },
+    {
+      "ammount": 777,
+      "id": 6
+    },
+    {
+      "ammount": 777,
+      "id": 7
+    }
+  ],
+  "bonus": [
+    {
+      "id": 1,
+      "points": 100
+    },
+    {
+      "id": 2,
+      "points": 200
+    }
+  ]
+}
